@@ -1,0 +1,12 @@
+# VSCode
+.vscode/
+
+# Atom
+.atom/
+
+# JetBrains IDEs (IntelliJ, PhpStorm, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
